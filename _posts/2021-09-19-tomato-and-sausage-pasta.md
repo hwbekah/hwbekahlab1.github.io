@@ -23,21 +23,21 @@ This was my go-to meal for a solid two or three months. It's quick and easy to m
 * Salt and pepper to season
 
 # Method
-## Cook the **pasta**.
+## Step 1 - Cook the **pasta**.
 1. Boil the water and add some **salt**. 
 2. Cook the pasta until soft.
 3. Drain pasta and leave aside.
 
-## Step 1 - Prepare the sausages
+## Step 2 - Prepare the sausages
 1. Sprinkle a little bit of **oil** into a frying pan and cook **sausages**.
 2. Once sausages are fully cooked, remove from frying pan and chop into slices. Leave aside.
 
-## Step 2 - Prepare the vegetables
+## Step 3 - Prepare the vegetables
 1. Sprinkle a little bit of **oil** into a frying pan and add the **pepper** and **onion**. Cook until slightly soft. 
 2. Add the **peas** and **sweetcorn** and cook for a further while.
 3. Add a dash of **salt and pepper** to taste.
 
-## Step 3 - Putting it all together
+## Step 4 - Putting it all together
 1. Add sliced sausages and **pasta sauce** into the vegetables.
 2. Pour in the pasta sauce and cook until piping hot.
 3. Add more salt and pepper if you desire.
