@@ -5,9 +5,9 @@ date: 2021-09-19
 ---
 This was my go-to meal for a solid two or three months. It's quick and easy to make and also budget-friendly.
 
-**Prep time:** 10-15 minutes
-**Difficulty:** Easy
-**Serves:** 1-2 people
+>**Prep time:** 10-15 minutes
+>**Difficulty:** Easy
+>**Serves:** 1-2 people
 
 # Ingredients
 * A good amount of fusilli or penne pasta
