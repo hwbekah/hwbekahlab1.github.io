@@ -1,6 +1,6 @@
 html {
   font-family: 'Courier New', 'Ariel', 'Sans-Serif';
-  min-width: 500px;
+  min-width: 400px;
 }
 
 body {
@@ -56,13 +56,9 @@ ul.posts li {
   color: #f2f2f2;
 }
 
-.blurb p {
-  color: #f2f2f2;
-}
-
-/* .blurb img {
+.blurb img {
   display: none;
-} */
+}
 
 @media screen and (max-width: 700px) {
   body {
@@ -79,9 +75,11 @@ ul.posts li {
   
   .blurb {
     background-image: none;
+    color: black;
   }
   
-/*   .blurb img {
+  .blurb img {
     display: block;
-  } */
+  }
+  
 }
