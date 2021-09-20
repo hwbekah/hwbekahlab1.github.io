@@ -7,3 +7,5 @@ This project is a website in the form of a recipe blog which provides recipes to
 * Git version: 2.33.0
 * GitHub: https://github.com/
 * Jekyll version: 3.9.1
+
+![git-logo](assets/images/git-logo.png "git logo")
