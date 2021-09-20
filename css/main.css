@@ -52,9 +52,8 @@ ul.posts li {
   height: auto;
 }
 
-.post=image img {
+.posts-image {
   width: 30%;
-  height: auto;
 }
 
 .blurb {
