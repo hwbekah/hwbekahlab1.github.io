@@ -85,8 +85,9 @@ ul.posts li {
     display: block;
   }
   
-  .blurb p {
+  .blurb h1, .blurb p {
     color: #333;
+    text-shadow: none;
   }
   
 }
