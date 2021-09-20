@@ -65,4 +65,9 @@ ul.posts li {
   
   ul.posts {
     margin: auto;
+  }
+  
+  img {
+    width: 100%;
+  }
 }
