@@ -48,7 +48,7 @@ ul.posts li {
 }
 
 .blurb {
-  background: url("/assets/images/food-bowl.jpg");
+  background-image: url("/assets/images/food-bowl.jpg");
   background-size: 100%;
   padding: 10px 10px 10px 20px;
   color: #f2f2f2;
