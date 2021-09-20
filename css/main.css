@@ -53,11 +53,11 @@ ul.posts li {
   background-size: 100%;
   opacity: 0.9;
   padding: 10px 10px 10px 20px;
-  color: #f2f2f2;
 }
 
-.blurb p {
-  color: #f2f2f2;
+.blurb h1, .blurb p {
+  color: #333;
+  blackground-color: #f2f2f2;
 }
 
 .blurb img {
