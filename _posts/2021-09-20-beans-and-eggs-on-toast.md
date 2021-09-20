@@ -5,6 +5,10 @@ date: 2021-09-20
 ---
 ![eggs](/assets/images/eggs.jpeg "Beans and Eggs on Toast")
 
+<div class="post-image">
+  <img src="/assets/images/eggs.jpeg" alt="Eggs"/>
+</div>
+
 This is a very filling and satisfying breakfast meal. This recipe will also teach you how to make the perfect runny eggs.
 
 >**Prep time:** None
