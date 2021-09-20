@@ -4,7 +4,7 @@ title: "Tomato and Sausage Pasta"
 date: 2021-09-19
 ---
 <div class="post-image">
-  <img src="/assets/images/pasta.jpg" alt="Bowl of Pasta" width="30%"/>
+  <img src="/assets/images/pasta.jpg" alt="Bowl of Pasta" width="50%"/>
 </div>
 
 This was my go-to meal for a solid two or three months. It's quick and easy to make and also budget-friendly.
