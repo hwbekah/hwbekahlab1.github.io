@@ -1,6 +1,5 @@
 html {
   font-family: 'Courier New', 'Ariel', 'Sans-Serif';
-  min-width: 400px;
 }
 
 body {
@@ -53,6 +52,10 @@ ul.posts li {
   background-image: url("/assets/images/food-bowl.jpg");
   background-size: 100%;
   padding: 10px 10px 10px 20px;
+  color: #f2f2f2;
+}
+
+.blurb p {
   color: #f2f2f2;
 }
 
