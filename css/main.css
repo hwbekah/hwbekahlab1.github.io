@@ -24,6 +24,8 @@ nav ul, footer ul {
   padding: 0px;
   list-style: none;
   font-weight: bold;
+  background-color: gray;
+  display: flex;
 }
 
 nav ul li, footer ul li {
