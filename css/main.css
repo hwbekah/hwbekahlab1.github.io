@@ -50,7 +50,9 @@ ul.posts li {
   list-style: none;
 }
 
-div.blurb {
+.blurb {
   background: url("/assets/images/food-bowl.jpg");
   background-size: 100%;
+  padding: 10px;
+  color: #f2f2f2;
 }
