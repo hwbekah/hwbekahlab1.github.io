@@ -1,5 +1,6 @@
 html {
   font-family: 'Courier New', 'Ariel', 'Sans-Serif';
+  min-width: 500px;
 }
 
 body {
