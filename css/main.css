@@ -23,6 +23,7 @@ nav ul, footer ul {
   font-weight: bold;
   display: flex;
   justify-content: flex-end;
+  flex-wrap: wrap;
 }
 
 nav ul li, footer ul li {
