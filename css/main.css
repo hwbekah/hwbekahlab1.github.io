@@ -47,10 +47,6 @@ ul.posts li {
   list-style: none;
 }
 
-.posts-image {
-  width: 30%;
-}
-
 .blurb {
   background: url("/assets/images/food-bowl.jpg");
   background-size: 100%;
