@@ -52,6 +52,11 @@ ul.posts li {
   height: auto;
 }
 
+.post=image {
+  width: 30%;
+  height: auto;
+}
+
 .blurb {
   background: url("/assets/images/food-bowl.jpg");
   background-size: 100%;
