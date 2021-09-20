@@ -50,5 +50,5 @@ ul.posts li {
 }
 
 div.blurb {
-  background-image: url(/images/food-bowl.jpg);
+  background-image: url("/images/food-bowl.jpg");
 }
