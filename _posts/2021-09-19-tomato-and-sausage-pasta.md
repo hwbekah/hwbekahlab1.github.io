@@ -3,8 +3,11 @@ layout: post
 title: "Tomato and Sausage Pasta"
 date: 2021-09-19
 ---
-
 ![bowl-of-pasta](/assets/images/pasta.jpg "Tomato and Sausage Pasta")
+
+<div class="post-image">
+  <img src="/assets/images/pasta.jpg" alt="Bowl of Pasta"/>
+</div>
 
 This was my go-to meal for a solid two or three months. It's quick and easy to make and also budget-friendly.
 
