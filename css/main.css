@@ -57,3 +57,12 @@ ul.posts li {
 .blurb p {
   color: #f2f2f2;
 }
+
+@media screen and (max-width: 700px) {
+  body {
+    margin: 10px;
+  }
+  
+  ul.posts {
+    margin: auto;
+}
